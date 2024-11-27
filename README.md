@@ -35,7 +35,7 @@ The application includes:
 ```bash
 git clone https://github.com/Devraj23som/VistarWebx_task.git
 cd VistarWebx_task
-### **2. Install Dependencies
+2. Install Dependencies
 npm install and npm i mongoose cors body-parser
 3. Set Up Environment Variables
 Create a .env file in the root of the project and include the following:
