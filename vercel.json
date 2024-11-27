@@ -1,4 +1,4 @@
-{ "version": 2, "builds": [{ "src": "./routes/index.js", "use": "/node" }],
+{ "version": 2, "builds": [{ "src": "/(.*)", "use": "/node" }],
 "routes":[
     {
         "src":"/(.*)",
