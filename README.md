@@ -12,7 +12,6 @@ This project is a Node.js application with EJS for template rendering, built to 
 5. [Usage](#usage)
 6. [API Documentation](#api-documentation)
 7. [Schema Design](#schema-design)
-8. [Contributing](#contributing)
 
 ---
 
@@ -36,7 +35,7 @@ The application includes:
 ```bash
 git clone https://github.com/Devraj23som/VistarWebx_task.git
 cd VistarWebx_task
-2. Install Dependencies
+### **2. Install Dependencies
 npm install and npm i mongoose cors body-parser
 3. Set Up Environment Variables
 Create a .env file in the root of the project and include the following:
