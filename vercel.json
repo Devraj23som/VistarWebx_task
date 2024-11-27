@@ -1,4 +1,4 @@
-{ "version": 2, "builds": [{ "src": "./app.js", "use": "@vercal/node" }],
+{ "version": 2, "builds": [{ "src": "./app.js", "use": "/node" }],
 "routes":[
     {
         "src":"/(.*)",
